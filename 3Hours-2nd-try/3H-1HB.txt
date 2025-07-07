@@ -1,0 +1,38 @@
+gamma = 0.98
+ep jerarquico
+
+============================================================
+TRAINING SUMMARY STATISTICS
+============================================================
+Total Episodes: 900
+Total Training Time: 10106.64 seconds
+
+REWARD STATISTICS:
+  Average Reward: 86.28
+  Best Reward: 1482.20
+  Worst Reward: -630.80
+  Std Deviation: 374.71
+  Recent 20 episodes avg: 178.61
+  First 20 episodes avg: -200.83
+  Improvement: 379.44
+
+SURVIVAL STATISTICS:
+  Average Episode Length: 210.4 steps
+  Longest Episode: 481 steps
+  Shortest Episode: 56 steps
+
+PROGRESS STATISTICS:
+  Total Rooms Completed: 54
+  Average Rooms/Episode: 0.06
+  Best Rooms in Episode: 2
+  Total Enemies Killed: 249
+  Average Enemies/Episode: 0.28
+  Best Enemies in Episode: 2
+============================================================
+
+Final Hierarchical Buffer Statistics:
+  Total experiences collected: 189323
+  Early game experiences: 53994
+  Late game experiences: 135329
+  Early/Late ratio: 0.40
+Training completed

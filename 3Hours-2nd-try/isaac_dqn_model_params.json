@@ -1,0 +1,20 @@
+{
+  "steps_count": 55819,
+  "gamma": 0.99,
+  "batch_size": 30,
+  "buffer_size": 5000,
+  "update_target_episode": 5,
+  "current_epsilon": 0.05,
+  "epsilon_decay": 0.005,
+  "epsilon_min": 0.05,
+  "episode_count": 900,
+  "buffer_stats": {
+    "total_size": 5000,
+    "early_game_size": 2000,
+    "late_game_size": 3000,
+    "early_game_capacity": 2000,
+    "late_game_capacity": 3000,
+    "early_game_added_total": 53994,
+    "late_game_added_total": 135329
+  }
+}

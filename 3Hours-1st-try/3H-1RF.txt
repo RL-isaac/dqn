@@ -1,0 +1,35 @@
+gamma = 0.99
+otro esquema de fases
+epsilon decay distinto
+funcion de recompensa distinta
+
+
+
+============================================================
+TRAINING SUMMARY STATISTICS
+============================================================
+Total Episodes: 900
+Total Training Time: 8629.82 seconds
+
+REWARD STATISTICS:
+  Average Reward: 271.92
+  Best Reward: 2113.10
+  Worst Reward: -510.50
+  Std Deviation: 429.32
+  Recent 20 episodes avg: 719.77
+  First 20 episodes avg: -187.93
+  Improvement: 907.70
+
+SURVIVAL STATISTICS:
+  Average Episode Length: 177.0 steps
+  Longest Episode: 709 steps
+  Shortest Episode: 60 steps
+
+PROGRESS STATISTICS:
+  Total Rooms Completed: 205
+  Average Rooms/Episode: 0.23
+  Best Rooms in Episode: 2
+  Total Enemies Killed: 601
+  Average Enemies/Episode: 0.67
+  Best Enemies in Episode: 4
+============================================================
